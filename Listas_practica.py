@@ -29,5 +29,5 @@ while True:
             break
         case _:
             print("Error. Ingresa una opción válida.")
-            print("BOBO"
+            print("BOBO")
 
